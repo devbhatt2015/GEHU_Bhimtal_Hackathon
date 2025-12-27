@@ -1,4 +1,4 @@
-# Samraksha | संरक्षा 🌍
+<h1># Samraksha | संरक्षा 🌍</h1>
 
 **Samraksha** is a community-driven platform focused on **environmental awareness and waste management**. The project empowers citizens to report waste issues, understand recycling, and participate in building cleaner and more sustainable communities. 
 
@@ -73,14 +73,7 @@ With rising waste generation and environmental challenges worldwide, **Samraksha
 - Aditya Raj Keshri  
 - Anant Roy  
 - Dev Bhatt  
-- Aditi Tyagi  
-
----
-
-## 📄 License
-
-Specify your project’s license here (e.g., MIT, GPL, etc.).  
-If your repo has no license yet, consider adding one.
+- Aryan Kumar
 
 ---
 

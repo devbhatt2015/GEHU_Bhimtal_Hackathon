@@ -32,7 +32,7 @@ Combining technology and awareness, the platform aims to transform waste into re
 
 Include screenshots of your website here, for example:
 
-📌 Home Page![Samraksha Home Page]("D:\IMAGE\homepage.png")
+📌 Home Page![Samraksha Home Page](<img width="1901" height="977" alt="Image" src="https://github.com/user-attachments/assets/0f239b46-59fc-469b-8c6b-375677b4a964" />)
 📌 Recycling Guides  
 📌 Contact Info
 

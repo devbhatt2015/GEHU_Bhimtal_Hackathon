@@ -32,7 +32,7 @@ Combining technology and awareness, the platform aims to transform waste into re
 
 Include screenshots of your website here, for example:
 
-📌 Home Page  
+📌 Home Page  ![Home Page]("D:\IMAGE\Screenshot 2025-12-27 175045.png")
 📌 Recycling Guides  
 📌 Contact Info
 
